@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import HeroImage from "../assets/amjad.jpg";
+import HeroImage from "../assets/Amjad.jpg";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
