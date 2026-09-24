@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import HeroImage from "../assets/Amjad.jpg";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
-import { motion } from "framer-motion";
+//import { motion } from "framer-motion";
 import { FiDownload, FiArrowRight } from "react-icons/fi";
 
 const roles = [
@@ -47,7 +47,7 @@ const Hero = () => {
   }, [displayText, isDeleting, roleIndex]);
 
   return (
-    <div className="relative w-full sm:h-[500px] overflow-hidden overflow-x-hidden">
+    <div className="relative w-full sm:h-125 overflow-hidden overflow-x-hidden">
       {/* AVAILABLE BADGE */}
       <div className="w-fit ml-4 sm:ml-40 mt-4 sm:mt-8 flex items-center gap-1 px-4 py-2 rounded-full border border-[#213190] text-sm text-gray-300">
         <span className="relative flex h-2.5 w-2.5 pt-1">
@@ -82,7 +82,7 @@ const Hero = () => {
         </motion.h1>
 
         {/* ROLE */}
-        <div className="font-serif italic pt-2 text-3xl sm:text-5xl text-[#286dbd] min-h-[50px] sm:min-h-[70px] min-w-[250px] sm:min-w-[300px]">
+        <div className="font-serif italic pt-2 text-3xl sm:text-5xl text-[#286dbd] min-h-12.5 sm:min-h-[70px] min-w-[250px] sm:min-w-[300px]">
           {displayText}
         </div>
 

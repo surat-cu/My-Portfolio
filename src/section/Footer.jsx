@@ -7,10 +7,10 @@ const Footer = () => {
       <div className="flex flex-col gap-5">
         <p className="text-gray-300 text-sm leading-6">
           From strategy to execution we craft <br /> digital solutions that move
-          your business forward
+          your business forward.
         </p>
         <div className="flex flex-col text-sm text-gray-300  gap-1 mt-2">
-          <div>Email : surat.freedom@gmail.com</div>
+          <div>Email : amjadhossainsurat@gmail.com</div>
           <div>Phone: +880 1832-836989</div>
           <div>Address: Colonel Hat, Chittagong.</div>
         </div>
