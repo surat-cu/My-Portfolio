@@ -1,5 +1,5 @@
 import React from "react";
-import CvFile from "../assets/Papan-SE-Resume.pdf";
+import CvFile from "../assets/Muhammad_Amjad_Hossain_CV.pdf";
 import Navbar from "../layout/Navbar";
 const PdfViewer = () => {
   return (

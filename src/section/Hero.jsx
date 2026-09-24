@@ -124,7 +124,7 @@ const Hero = () => {
           {/* LINKEDIN */}
           <button
             onClick={() =>
-              window.open("https://linkedin.com/in/surat-cse", "_blank")
+              window.open("https://linkedin.com/in/surat-jr", "_blank")
             }
             className="flex items-center justify-center gap-3 cursor-pointer border px-4 py-2.5 bg-[#1E2939] rounded-full  hover:text-white transition"
           >
@@ -137,10 +137,6 @@ const Hero = () => {
       {/* HERO IMAGE - DESKTOP */}
       <div className="max-sm:hidden  relative z-10 flex justify-end pb-14 sm:pb-17 items-end sm:pr-40">
         {/* LOCATION BADGE */}
-        <div className="absolute  -top-6 translate-x-1 bg-[#1E2939] flex items-center gap-1 px-4 py-2 rounded-full border border-[#213190] text-sm text-gray-300">
-          Based in Dhaka, Working Globally
-        </div>
-
         <motion.img
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
