@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import HeroImage from "../assets/Amjad.jpg";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
-//import { motion } from "framer-motion";
+import { motion } from "framer-motion";
 import { FiDownload, FiArrowRight } from "react-icons/fi";
 
 const roles = [
