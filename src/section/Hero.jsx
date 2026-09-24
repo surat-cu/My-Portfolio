@@ -151,9 +151,6 @@ const Hero = () => {
       <div className="sm:hidden mt-15 pt-[22rem] pb-[2rem] relative z-10 flex justify-center items-end w-full">
         <div className="relative">
           {/* LOCATION BADGE */}
-          <div className="absolute left-10 -top-87 translate-x-1 bg-[#1E2939] flex items-center gap-1 px-4 py-2 rounded-full border border-[#213190] text-sm text-gray-300 whitespace-nowrap">
-            Based in Dhaka, Working Globally
-          </div>
         </div>
 
         <motion.img
