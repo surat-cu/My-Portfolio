@@ -18,15 +18,15 @@ const Experience = () => {
 
             <div className="border-l-4 border-blue-500 pl-5">
               <h3 className="text-xl text-white font-medium">
-                Bachelor of Science in Computer Science
+                Bachelor of Science in Computer Science and Engineering
               </h3>
 
-              <p className="text-gray-300 mt-2">Chittagong University</p>
+              <p className="text-gray-300 mt-2">University of Chittagong</p>
 
-              <p className="text-sm text-gray-300 mt-1">2020 - 2025</p>
+              <p className="text-sm text-gray-300 mt-1">2018 - 2023</p>
 
               <p className="mt-3 text-gray-400">
-                Studying software development, algorithms, database systems, web
+                Studied software development, algorithms, database systems, web
                 technologies and artificial intelligence.
               </p>
             </div>
@@ -37,16 +37,7 @@ const Experience = () => {
             <h2 className="text-2xl font-semibold mb-6 text-green-600">
               💼 Experience
             </h2>
-
             <div className="border-l-4 border-green-500 pl-5">
-              <h3 className="text-xl text-white  font-medium">
-                Software Engineer Intern
-              </h3>
-
-              <p className="text-gray-300 mt-2">Siara Solution</p>
-
-              <p className="text-sm text-gray-300 mt-1">2025 - Present</p>
-
               <p className="mt-3 text-gray-400">
                 Developing web applications using React, Next.js, Node.js,
                 Express and MongoDB.
