@@ -11,7 +11,7 @@ const Footer = () => {
         </p>
         <div className="flex flex-col text-sm text-gray-300  gap-1 mt-2">
           <div>Email : amjadhossainsurat@gmail.com</div>
-          <div>Phone: +880 1832-836989</div>
+          <div>Phone: +88 01832-836989</div>
           <div>Address: Colonel Hat, Chittagong.</div>
         </div>
       </div>
