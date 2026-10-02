@@ -41,7 +41,7 @@ const Project = () => {
   return (
     <div id="project" className="w-full py-16 text-white">
       <h2 className="text-3xl font-poppins font-bold text-center mb-10">
-        Top Projects
+        //Top Projects
       </h2>
 
       <div
