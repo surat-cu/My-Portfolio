@@ -4,25 +4,25 @@ import Project2 from "../assets/project2.JPG";
 import Project3 from "../assets/project3.JPG";
 import Project4 from "../assets/project4.JPG";
 const project = [
-  {
+  /*{
     img: Project1,
     title: "Tashus Car Booking Platform",
     description:
       "A modern car rental platform that allows users to browse available vehicles, verify their driving licences, and securely book cars for their journeys. The platform provides a seamless booking experience with vehicle details, availability, and user verification.",
     link: "https://dev-testing.tashus.com/",
-  },
+  },*/
 
-  {
+  /*{
     img: Project2,
     title: "Honest Car Sell",
     description:
       "A modern car marketplace that connects sellers and buyers on a seamless, user-friendly platform. Sellers can easily list their vehicles with detailed information, images, pricing, and specifications, while buyers can browse, search, and filter available cars to find the vehicle that best matches their needs and preferences.",
     link: "https://dev-testing.honestcarsale.com/",
-  },
+  },*/
 
-  {
+ /* {
     img: Project3,
-    title: "Eat Sharma Restaurant App",
+    title: "King's Spicy Restaurant App",
     description:
       "A modern restaurant management platform designed to streamline food ordering and restaurant operations. The admin dashboard enables administrators to manage users, organize menu items, monitor orders, and efficiently manage day-to-day restaurant activities through a centralized interface.",
     link: "https://dev-app.eatshawarma.com.au/",
@@ -34,7 +34,7 @@ const project = [
     description:
       "A comprehensive admin dashboard for managing the entire car rental ecosystem. It enables administrators to manage users, add and update vehicle listings, monitor reservations, verify customer information, manage vehicle availability, and oversee key platform operations through a centralized interface.",
     link: "https://tashus-admin.vercel.app/",
-  },
+  },*/
 ];
 
 const Project = () => {
